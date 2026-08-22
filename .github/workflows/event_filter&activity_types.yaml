@@ -5,7 +5,7 @@ on:
         types: [opened, closed, reopened]
         branches:
             - main
-        
+
 jobs:
     echo:
         runs-on: ubuntu-latest
